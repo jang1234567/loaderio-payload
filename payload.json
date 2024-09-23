@@ -1,5 +1,5 @@
 {
-  "keys": ["members_name", "members_phone_number", "members_company", "members_message", "privacy_consent"],
+  "keys": ["members_name", "members_phone_number", "members_company", "members_message", "members_privacy_consent"],
   "values": [
     ["홍길동", "01000000001", "테스트 회사 1", "안녕하세요, 테스트 메시지 1입니다.", "O"],
     ["김철수", "01000000002", "샘플 회사 2", "안녕하세요, 테스트 메시지 2입니다.", "O"],
