@@ -1,355 +1,55 @@
 {
   "keys": ["members_name", "members_phone_number", "members_company", "members_message", "privacy_consent"],
   "values": [
-    {
-      "members_name": "홍길동",
-      "members_phone_number": "01000000001",
-      "members_company": "테스트 회사 1",
-      "members_message": "안녕하세요, 테스트 메시지 1입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "김철수",
-      "members_phone_number": "01000000002",
-      "members_company": "샘플 회사 2",
-      "members_message": "안녕하세요, 테스트 메시지 2입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "이영희",
-      "members_phone_number": "01000000003",
-      "members_company": "예시 회사 3",
-      "members_message": "안녕하세요, 테스트 메시지 3입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "박준호",
-      "members_phone_number": "01000000004",
-      "members_company": "테스트 회사 4",
-      "members_message": "안녕하세요, 테스트 메시지 4입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "최지은",
-      "members_phone_number": "01000000005",
-      "members_company": "샘플 회사 5",
-      "members_message": "안녕하세요, 테스트 메시지 5입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "강민수",
-      "members_phone_number": "01000000006",
-      "members_company": "예시 회사 6",
-      "members_message": "안녕하세요, 테스트 메시지 6입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "정유진",
-      "members_phone_number": "01000000007",
-      "members_company": "테스트 회사 7",
-      "members_message": "안녕하세요, 테스트 메시지 7입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "오세훈",
-      "members_phone_number": "01000000008",
-      "members_company": "샘플 회사 8",
-      "members_message": "안녕하세요, 테스트 메시지 8입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "유나래",
-      "members_phone_number": "01000000009",
-      "members_company": "예시 회사 9",
-      "members_message": "안녕하세요, 테스트 메시지 9입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "한지민",
-      "members_phone_number": "01000000010",
-      "members_company": "테스트 회사 10",
-      "members_message": "안녕하세요, 테스트 메시지 10입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "서준호",
-      "members_phone_number": "01000000011",
-      "members_company": "샘플 회사 11",
-      "members_message": "안녕하세요, 테스트 메시지 11입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "민서",
-      "members_phone_number": "01000000012",
-      "members_company": "예시 회사 12",
-      "members_message": "안녕하세요, 테스트 메시지 12입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지훈",
-      "members_phone_number": "01000000013",
-      "members_company": "테스트 회사 13",
-      "members_message": "안녕하세요, 테스트 메시지 13입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "하늘",
-      "members_phone_number": "01000000014",
-      "members_company": "샘플 회사 14",
-      "members_message": "안녕하세요, 테스트 메시지 14입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "수민",
-      "members_phone_number": "01000000015",
-      "members_company": "예시 회사 15",
-      "members_message": "안녕하세요, 테스트 메시지 15입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "준영",
-      "members_phone_number": "01000000016",
-      "members_company": "테스트 회사 16",
-      "members_message": "안녕하세요, 테스트 메시지 16입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "민준",
-      "members_phone_number": "01000000017",
-      "members_company": "샘플 회사 17",
-      "members_message": "안녕하세요, 테스트 메시지 17입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지아",
-      "members_phone_number": "01000000018",
-      "members_company": "예시 회사 18",
-      "members_message": "안녕하세요, 테스트 메시지 18입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "현우",
-      "members_phone_number": "01000000019",
-      "members_company": "테스트 회사 19",
-      "members_message": "안녕하세요, 테스트 메시지 19입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "서현",
-      "members_phone_number": "01000000020",
-      "members_company": "샘플 회사 20",
-      "members_message": "안녕하세요, 테스트 메시지 20입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지훈",
-      "members_phone_number": "01000000021",
-      "members_company": "예시 회사 21",
-      "members_message": "안녕하세요, 테스트 메시지 21입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "예린",
-      "members_phone_number": "01000000022",
-      "members_company": "테스트 회사 22",
-      "members_message": "안녕하세요, 테스트 메시지 22입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "태현",
-      "members_phone_number": "01000000023",
-      "members_company": "샘플 회사 23",
-      "members_message": "안녕하세요, 테스트 메시지 23입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "하은",
-      "members_phone_number": "01000000024",
-      "members_company": "예시 회사 24",
-      "members_message": "안녕하세요, 테스트 메시지 24입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "도윤",
-      "members_phone_number": "01000000025",
-      "members_company": "테스트 회사 25",
-      "members_message": "안녕하세요, 테스트 메시지 25입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지우",
-      "members_phone_number": "01000000026",
-      "members_company": "샘플 회사 26",
-      "members_message": "안녕하세요, 테스트 메시지 26입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "은우",
-      "members_phone_number": "01000000027",
-      "members_company": "예시 회사 27",
-      "members_message": "안녕하세요, 테스트 메시지 27입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "서우",
-      "members_phone_number": "01000000028",
-      "members_company": "테스트 회사 28",
-      "members_message": "안녕하세요, 테스트 메시지 28입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "주원",
-      "members_phone_number": "01000000029",
-      "members_company": "샘플 회사 29",
-      "members_message": "안녕하세요, 테스트 메시지 29입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "하린",
-      "members_phone_number": "01000000030",
-      "members_company": "예시 회사 30",
-      "members_message": "안녕하세요, 테스트 메시지 30입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지호",
-      "members_phone_number": "01000000031",
-      "members_company": "테스트 회사 31",
-      "members_message": "안녕하세요, 테스트 메시지 31입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "민채",
-      "members_phone_number": "01000000032",
-      "members_company": "샘플 회사 32",
-      "members_message": "안녕하세요, 테스트 메시지 32입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "서윤",
-      "members_phone_number": "01000000033",
-      "members_company": "예시 회사 33",
-      "members_message": "안녕하세요, 테스트 메시지 33입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지수",
-      "members_phone_number": "01000000034",
-      "members_company": "테스트 회사 34",
-      "members_message": "안녕하세요, 테스트 메시지 34입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "준서",
-      "members_phone_number": "01000000035",
-      "members_company": "샘플 회사 35",
-      "members_message": "안녕하세요, 테스트 메시지 35입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "예빈",
-      "members_phone_number": "01000000036",
-      "members_company": "예시 회사 36",
-      "members_message": "안녕하세요, 테스트 메시지 36입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "현아",
-      "members_phone_number": "01000000037",
-      "members_company": "테스트 회사 37",
-      "members_message": "안녕하세요, 테스트 메시지 37입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "민혁",
-      "members_phone_number": "01000000038",
-      "members_company": "샘플 회사 38",
-      "members_message": "안녕하세요, 테스트 메시지 38입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지민",
-      "members_phone_number": "01000000039",
-      "members_company": "예시 회사 39",
-      "members_message": "안녕하세요, 테스트 메시지 39입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "윤호",
-      "members_phone_number": "01000000040",
-      "members_company": "테스트 회사 40",
-      "members_message": "안녕하세요, 테스트 메시지 40입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "서아",
-      "members_phone_number": "01000000041",
-      "members_company": "샘플 회사 41",
-      "members_message": "안녕하세요, 테스트 메시지 41입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "태양",
-      "members_phone_number": "01000000042",
-      "members_company": "예시 회사 42",
-      "members_message": "안녕하세요, 테스트 메시지 42입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "유진",
-      "members_phone_number": "01000000043",
-      "members_company": "테스트 회사 43",
-      "members_message": "안녕하세요, 테스트 메시지 43입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "준호",
-      "members_phone_number": "01000000044",
-      "members_company": "샘플 회사 44",
-      "members_message": "안녕하세요, 테스트 메시지 44입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지현",
-      "members_phone_number": "01000000045",
-      "members_company": "예시 회사 45",
-      "members_message": "안녕하세요, 테스트 메시지 45입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "도희",
-      "members_phone_number": "01000000046",
-      "members_company": "테스트 회사 46",
-      "members_message": "안녕하세요, 테스트 메시지 46입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "민재",
-      "members_phone_number": "01000000047",
-      "members_company": "샘플 회사 47",
-      "members_message": "안녕하세요, 테스트 메시지 47입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "하은",
-      "members_phone_number": "01000000048",
-      "members_company": "예시 회사 48",
-      "members_message": "안녕하세요, 테스트 메시지 48입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "수아",
-      "members_phone_number": "01000000049",
-      "members_company": "테스트 회사 49",
-      "members_message": "안녕하세요, 테스트 메시지 49입니다.",
-      "privacy_consent": "O"
-    },
-    {
-      "members_name": "지안",
-      "members_phone_number": "01000000050",
-      "members_company": "샘플 회사 50",
-      "members_message": "안녕하세요, 테스트 메시지 50입니다.",
-      "privacy_consent": "O"
-    }
+    ["홍길동", "01000000001", "테스트 회사 1", "안녕하세요, 테스트 메시지 1입니다.", "O"],
+    ["김철수", "01000000002", "샘플 회사 2", "안녕하세요, 테스트 메시지 2입니다.", "O"],
+    ["이영희", "01000000003", "예시 회사 3", "안녕하세요, 테스트 메시지 3입니다.", "O"],
+    ["박준호", "01000000004", "테스트 회사 4", "안녕하세요, 테스트 메시지 4입니다.", "O"],
+    ["최지은", "01000000005", "샘플 회사 5", "안녕하세요, 테스트 메시지 5입니다.", "O"],
+    ["강민수", "01000000006", "예시 회사 6", "안녕하세요, 테스트 메시지 6입니다.", "O"],
+    ["정유진", "01000000007", "테스트 회사 7", "안녕하세요, 테스트 메시지 7입니다.", "O"],
+    ["오세훈", "01000000008", "샘플 회사 8", "안녕하세요, 테스트 메시지 8입니다.", "O"],
+    ["유나래", "01000000009", "예시 회사 9", "안녕하세요, 테스트 메시지 9입니다.", "O"],
+    ["한지민", "01000000010", "테스트 회사 10", "안녕하세요, 테스트 메시지 10입니다.", "O"],
+    ["서준호", "01000000011", "샘플 회사 11", "안녕하세요, 테스트 메시지 11입니다.", "O"],
+    ["민서", "01000000012", "예시 회사 12", "안녕하세요, 테스트 메시지 12입니다.", "O"],
+    ["지훈", "01000000013", "테스트 회사 13", "안녕하세요, 테스트 메시지 13입니다.", "O"],
+    ["하늘", "01000000014", "샘플 회사 14", "안녕하세요, 테스트 메시지 14입니다.", "O"],
+    ["수민", "01000000015", "예시 회사 15", "안녕하세요, 테스트 메시지 15입니다.", "O"],
+    ["준영", "01000000016", "테스트 회사 16", "안녕하세요, 테스트 메시지 16입니다.", "O"],
+    ["민준", "01000000017", "샘플 회사 17", "안녕하세요, 테스트 메시지 17입니다.", "O"],
+    ["지아", "01000000018", "예시 회사 18", "안녕하세요, 테스트 메시지 18입니다.", "O"],
+    ["현우", "01000000019", "테스트 회사 19", "안녕하세요, 테스트 메시지 19입니다.", "O"],
+    ["서현", "01000000020", "샘플 회사 20", "안녕하세요, 테스트 메시지 20입니다.", "O"],
+    ["지훈", "01000000021", "예시 회사 21", "안녕하세요, 테스트 메시지 21입니다.", "O"],
+    ["예린", "01000000022", "테스트 회사 22", "안녕하세요, 테스트 메시지 22입니다.", "O"],
+    ["태현", "01000000023", "샘플 회사 23", "안녕하세요, 테스트 메시지 23입니다.", "O"],
+    ["하은", "01000000024", "예시 회사 24", "안녕하세요, 테스트 메시지 24입니다.", "O"],
+    ["도윤", "01000000025", "테스트 회사 25", "안녕하세요, 테스트 메시지 25입니다.", "O"],
+    ["지우", "01000000026", "샘플 회사 26", "안녕하세요, 테스트 메시지 26입니다.", "O"],
+    ["은우", "01000000027", "예시 회사 27", "안녕하세요, 테스트 메시지 27입니다.", "O"],
+    ["서우", "01000000028", "테스트 회사 28", "안녕하세요, 테스트 메시지 28입니다.", "O"],
+    ["주원", "01000000029", "샘플 회사 29", "안녕하세요, 테스트 메시지 29입니다.", "O"],
+    ["하린", "01000000030", "예시 회사 30", "안녕하세요, 테스트 메시지 30입니다.", "O"],
+    ["지호", "01000000031", "테스트 회사 31", "안녕하세요, 테스트 메시지 31입니다.", "O"],
+    ["민채", "01000000032", "샘플 회사 32", "안녕하세요, 테스트 메시지 32입니다.", "O"],
+    ["서윤", "01000000033", "예시 회사 33", "안녕하세요, 테스트 메시지 33입니다.", "O"],
+    ["지수", "01000000034", "테스트 회사 34", "안녕하세요, 테스트 메시지 34입니다.", "O"],
+    ["준서", "01000000035", "샘플 회사 35", "안녕하세요, 테스트 메시지 35입니다.", "O"],
+    ["예빈", "01000000036", "예시 회사 36", "안녕하세요, 테스트 메시지 36입니다.", "O"],
+    ["현아", "01000000037", "테스트 회사 37", "안녕하세요, 테스트 메시지 37입니다.", "O"],
+    ["민혁", "01000000038", "샘플 회사 38", "안녕하세요, 테스트 메시지 38입니다.", "O"],
+    ["지민", "01000000039", "예시 회사 39", "안녕하세요, 테스트 메시지 39입니다.", "O"],
+    ["윤호", "01000000040", "테스트 회사 40", "안녕하세요, 테스트 메시지 40입니다.", "O"],
+    ["서아", "01000000041", "샘플 회사 41", "안녕하세요, 테스트 메시지 41입니다.", "O"],
+    ["태양", "01000000042", "예시 회사 42", "안녕하세요, 테스트 메시지 42입니다.", "O"],
+    ["유진", "01000000043", "테스트 회사 43", "안녕하세요, 테스트 메시지 43입니다.", "O"],
+    ["준호", "01000000044", "샘플 회사 44", "안녕하세요, 테스트 메시지 44입니다.", "O"],
+    ["지현", "01000000045", "예시 회사 45", "안녕하세요, 테스트 메시지 45입니다.", "O"],
+    ["도희", "01000000046", "테스트 회사 46", "안녕하세요, 테스트 메시지 46입니다.", "O"],
+    ["민재", "01000000047", "샘플 회사 47", "안녕하세요, 테스트 메시지 47입니다.", "O"],
+    ["하은", "01000000048", "예시 회사 48", "안녕하세요, 테스트 메시지 48입니다.", "O"],
+    ["수아", "01000000049", "테스트 회사 49", "안녕하세요, 테스트 메시지 49입니다.", "O"],
+    ["지안", "01000000050", "샘플 회사 50", "안녕하세요, 테스트 메시지 50입니다.", "O"]
   ]
 }
